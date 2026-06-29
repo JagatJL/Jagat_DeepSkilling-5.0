@@ -1,3 +1,5 @@
+package module4.exercise1;
+
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
